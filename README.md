@@ -1,4 +1,4 @@
-# CHS-AP-Computer-Science-Resources-2016
+# CHS AP Computer Science Resources 2016
 
 ## Our Toolchain - the program development software (tools) we use.
 

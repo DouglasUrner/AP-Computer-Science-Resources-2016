@@ -28,3 +28,8 @@
 * [StackOverflow][SO]: is, according to their website, "Stack Overflow is a community of 4.7 million programmers, just like you, helping each other." The site is primarily questions and answers, the contents and well curated and you can often find information there that you need. A good reputation on Stack Overflow can be a good thing on your resume.
 
 [SO]: http://stackoverflow.com/
+
+### Additional Practice
+* [Practice-It][PI]: U.W. made a website that allows you to practive coding that has to do with our text book and the college leve of this class.
+
+[PI]: http://practiceit.cs.washington.edu/

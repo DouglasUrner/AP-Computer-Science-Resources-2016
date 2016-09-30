@@ -29,6 +29,10 @@
 
 [SO]: http://stackoverflow.com/
 
+* [ASCII Codes][AT]: A handy table to learn ASCII codes and characters
+
+[AT]: http://www.asciitable.com/
+
 ### Algorithms
 
 #### Sorting

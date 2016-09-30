@@ -13,6 +13,9 @@
 [GH]: https://github.com
 
 ## Java
+* [Khan Academy][KA]: place to compile and test codes.
+
+[KA]: https://www.khanacademy.org/computer-programming/learn-java/6682121119727616
 
 ## IntelliJ
 

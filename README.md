@@ -28,3 +28,11 @@
 * [StackOverflow][SO]: is, according to their website, "Stack Overflow is a community of 4.7 million programmers, just like you, helping each other." The site is primarily questions and answers, the contents and well curated and you can often find information there that you need. A good reputation on Stack Overflow can be a good thing on your resume.
 
 [SO]: http://stackoverflow.com/
+
+### Algorithms
+
+#### Sorting
+
+* [Insertion Sort as Dance][IS]
+
+[IS]: https://www.youtube.com/watch?v=ROalU379l3U

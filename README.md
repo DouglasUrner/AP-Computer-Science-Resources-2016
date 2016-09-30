@@ -14,6 +14,10 @@
 
 ## Java
 
+### Sounds!?
+
+* You can apparently play sounds with Java https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html
+
 ## IntelliJ
 
 ## git and GitHub
@@ -28,3 +32,8 @@
 * [StackOverflow][SO]: is, according to their website, "Stack Overflow is a community of 4.7 million programmers, just like you, helping each other." The site is primarily questions and answers, the contents and well curated and you can often find information there that you need. A good reputation on Stack Overflow can be a good thing on your resume.
 
 [SO]: http://stackoverflow.com/
+
+## Strings
+
+* I don't fully understand what strings are...
+

@@ -1,12 +1,14 @@
-# 2016 AP Cumpyoutor Psyence Risoarces
+# 2016 AP Computer Science Resources
 
 ## Our Toolchain - the program development software (tools) we use.
+* [Khan Academy][KA]: place to compile and learn how to use Java.
 
 * [Java JDK][JDK]: the **J**ava **D**evelopment **K**it. The JDK provides the tools needed to compile and run Java programs. It is a free download.
 * [Jetbrains IntelliJ IDEA][IDEA]: the IDE (**I**ntegrated **D**evelopment **E**nvironment) that we use in class, it is written in Java. It has built in support for working with git and GitHub. It is free to students.
 * [git][git]: the version control system we use in class. git is [open source][oss] and may be freely downloaded and used for any purpose.
 * [GitHub][GH]: GitHub is a commercial operation that hosts git repositories. Personal accounts with public respositories are free.
-
+ 
+[KA]: https://www.khanacademy.org/computer-programming/learn-java/6682121119727616
 [JDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [IDEA]: https://www.jetbrains.com/idea
 [git]: https://git-scm.com

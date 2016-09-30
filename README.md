@@ -36,3 +36,8 @@
 * [Insertion Sort as Dance][IS]
 
 [IS]: https://www.youtube.com/watch?v=ROalU379l3U
+
+### Additional Practice
+ * [Practice-It][PI]: U.W. made a website that allows you to practive coding that has to do with our text book and the college leve of this class.
+ 
+ [PI]: http://practiceit.cs.washington.edu/

@@ -7,12 +7,15 @@
 * [Jetbrains IntelliJ IDEA][IDEA]: the IDE (**I**ntegrated **D**evelopment **E**nvironment) that we use in class, it is written in Java. It has built in support for working with git and GitHub. It is free to students.
 * [git][git]: the version control system we use in class. git is [open source][oss] and may be freely downloaded and used for any purpose.
 * [GitHub][GH]: GitHub is a commercial operation that hosts git repositories. Personal accounts with public respositories are free.
+
+Instructions for configuring the toolchain are in [Toolchain Configuration][TCC].
  
 [KA]: https://www.khanacademy.org/computer-programming/learn-java/6682121119727616
 [JDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [IDEA]: https://www.jetbrains.com/idea
 [git]: https://git-scm.com
 [GH]: https://github.com
+[TCC]: https://github.com/DouglasUrner/CHS-AP-Computer-Science-Resources-2016/blob/master/Toolchain%20Configuration.md
 
 ## Java
 * [Compile Java] [CJ]: a free and easy to use java compiler
